@@ -35,7 +35,7 @@ class Grafo:
 
         return distancias
 
-# Exemplo de uso -----> Altere aqui para obter um problema e resposta diferente e correta!
+# Exemplo de uso -----> Altere aqui para obter um problema, resposta diferente e correta!
 g = Grafo(6)
 g.grafo = [
     [0, 2, 4, 0, 0, 0],
